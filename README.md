@@ -17,7 +17,7 @@ O SnapClima é um aplicativo de clima que mostra toas as informações do tempo 
 <br>
 
 <p align="center">
-  <img alt="SnapClima" src=".github/preview.jpg " width="100%">
+  <img alt="SnapClima" src="preview.jpg " width="100%">
 </p>
 
 ## 🚀 Tecnologias
